@@ -1,0 +1,14 @@
+{
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "This is just to practice how to use npm, fs and other basic functionalities of node.js",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Uyo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
